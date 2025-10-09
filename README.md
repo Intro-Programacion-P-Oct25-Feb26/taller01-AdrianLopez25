@@ -23,7 +23,10 @@ Paso 6. Observar que se instalo correctamente.
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/fdaa5ea9-723b-4f80-9030-084f3c3a921e" />
 Paso 7. Ingresar a NetBeans.
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/adde9cbc-9320-43e1-8635-e6d464b4d6ff" />
-Paso 8. 
+Paso 8. Observar si esta elegida la opcion de Java
 <img width="1916" height="1032" alt="image" src="https://github.com/user-attachments/assets/4c4ee8cd-d086-44fd-9079-4374b02f23fe" />
-Paso 9.
+Paso 9. Elegir la carpeta en donde guardar todo nuestro trabajo
 <img width="1917" height="1026" alt="image" src="https://github.com/user-attachments/assets/f9c50a6c-2fc1-4391-b1cd-17fe3c08f1b9" />
+Paso 10. Practicar 
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/080021e0-80f1-4b57-92bf-90dddbd36ef7" />
+Instalacion de Python
