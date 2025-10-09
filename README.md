@@ -1,2 +1,3 @@
 # taller01
-<img width="1739" height="963" alt="image" src="https://github.com/user-attachments/assets/d9c1de9d-e77c-4a48-b824-090b33368a04" />
+Paso 1. Ingresar a la pagina de descargas.
+<img width="1915" height="970" alt="image" src="https://github.com/user-attachments/assets/1dff38be-3af5-416b-905a-6d078d4369e2" />
