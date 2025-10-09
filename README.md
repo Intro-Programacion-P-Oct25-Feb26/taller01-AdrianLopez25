@@ -21,3 +21,9 @@ Paso 5. Instalar el Netbeans.
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/b939ad10-29f2-42dd-bccb-a04a42698ee6" />
 Paso 6. Observar que se instalo correctamente.
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/fdaa5ea9-723b-4f80-9030-084f3c3a921e" />
+Paso 7. Ingresar a NetBeans.
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/adde9cbc-9320-43e1-8635-e6d464b4d6ff" />
+Paso 8. 
+<img width="1916" height="1032" alt="image" src="https://github.com/user-attachments/assets/4c4ee8cd-d086-44fd-9079-4374b02f23fe" />
+Paso 9.
+<img width="1917" height="1026" alt="image" src="https://github.com/user-attachments/assets/f9c50a6c-2fc1-4391-b1cd-17fe3c08f1b9" />
