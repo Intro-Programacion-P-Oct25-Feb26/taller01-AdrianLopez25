@@ -30,3 +30,11 @@ Paso 9. Elegir la carpeta en donde guardar todo nuestro trabajo
 Paso 10. Practicar 
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/080021e0-80f1-4b57-92bf-90dddbd36ef7" />
 Instalacion de Python
+Paso 1. Ingresar a la pagina de descargas
+<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/2bbc1300-8e24-4402-af41-847515cd7c80" />
+Paso 2. Comenzar a instalar y aceptar todo.
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/a5c61a6f-4607-47b2-b6fd-85611aa06813" />
+Paso 3. Observar que la instalacion fue un exito.
+<img width="1917" height="1076" alt="image" src="https://github.com/user-attachments/assets/651b48ab-9971-48ef-a15c-13df6724d5f3" />
+Paso 4. Observamos de que python esta instalado en nuestra computadora.
+<img width="1902" height="1078" alt="image" src="https://github.com/user-attachments/assets/d900e50e-ef82-4f75-9c92-31f7c8b642b5" />
