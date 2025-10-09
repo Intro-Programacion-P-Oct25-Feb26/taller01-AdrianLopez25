@@ -5,3 +5,5 @@ Paso2. Comenzar a instalar
 <img width="1906" height="1072" alt="image" src="https://github.com/user-attachments/assets/c006d63c-84ba-42b4-9547-50dcbc612dce" />
 Paso 3. Observar en que lugar se va a instalar
 <img width="1892" height="1070" alt="image" src="https://github.com/user-attachments/assets/13835a97-cdeb-47a4-ba2a-1c55eae5e1ad" />
+Paso 4. Observar si se instalo con exito
+<img width="1915" height="1077" alt="image" src="https://github.com/user-attachments/assets/b9e6d064-82d2-4d38-9373-48a0ed62884e" />
